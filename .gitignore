@@ -4,3 +4,5 @@ src/**/*.js
 src/**/*.js.map
 
 wwwroot
+
+.DS_Store
